@@ -1,8 +1,8 @@
-trainer = Raghu
-class = Devops
+trainer=Raghu
+class=Devops
 
 
-echo Trainer name - $trainer
+echo Trainer Name - $trainer
 
-echo Class name - ${class}
+echo Class Name - ${class}
 
