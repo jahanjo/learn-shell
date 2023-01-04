@@ -6,6 +6,6 @@ echo Trainer name - $trainer
 
 echo Class name - ${class}
 
-DATE=$(date -%F)
+DATE=$(date +%F)
 echo LIC due date is $DATE
 
