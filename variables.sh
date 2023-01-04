@@ -2,7 +2,7 @@ trainer = Raghu
 class = Devops
 
 
-echo trainer name=$trainer
+echo Trainer name=$trainer
 
-echo class name=${class}
+echo Class name=${class}
 
